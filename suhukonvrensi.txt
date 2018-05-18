@@ -1,0 +1,2 @@
+   System.out.println("===Konversi dari Fahrenheit ke Reamur===");
+   System.out.print("\nMasukkan suhu: ");
